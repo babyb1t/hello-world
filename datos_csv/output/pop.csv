@@ -1,39 +1,76 @@
 Codigo_cancion,Name_song,Genero,Artista,user_id,user_age,analisis,valid
-20000,Perfect Duet,pop,Ed Sheeran & Beyonce,405310030,35,1,0
-20001,Havana,pop,Camila Cabello,500737046,27,1,0
-20002,What Lovers Do,pop,Maroon 5,0,0,0,0
-20003,Wolves,pop,Selena Gomez & Marshmello,396749095,19,2,0
-20003,Wolves,pop,Selena Gomez & Marshmello,545227712,15,2,0
-20004,How Long,pop,Charlie Puth,405310030,35,1,0
-20005,New Rules,pop,Dua Lipa,457933106,21,1,0
-20006,Dusk Till Dawn,pop,ZAYN,0,0,0,0
-20007,Tip Toe,pop,Jason Derulo,480450152,15,2,0
-20007,Tip Toe,pop,Jason Derulo,286966904,18,2,0
-20008,Anywhere,pop,Rita Ora,0,0,0,0
-20009,Guerrera,pop,C. Tangana,41432574,37,3,0
-20009,Guerrera,pop,C. Tangana,430896023,27,3,0
-20009,Guerrera,pop,C. Tangana,223367389,52,3,0
-20010,Guerrera,pop,C. Tangana,231608506,26,1,0
-20011,El Patio,pop,Pablo López,372575495,27,3,0
-20011,El Patio,pop,Pablo López,388019140,16,3,0
-20011,El Patio,pop,Pablo López,513594025,51,3,0
-20012,No Vaya A Ser,pop,Pablo Alborán,429520994,31,3,0
-20012,No Vaya A Ser,pop,Pablo Alborán,489327083,23,3,0
-20012,No Vaya A Ser,pop,Pablo Alborán,545227712,15,3,0
+20000,Perfect Duet,pop,Ed Sheeran & Beyonce,405310030,35,2,0
+20000,Perfect Duet,pop,Ed Sheeran & Beyonce,519389099,15,2,0
+20001,Havana,pop,Camila Cabello,500737046,27,2,0
+20001,Havana,pop,Camila Cabello,519389099,15,2,0
+20002,What Lovers Do,pop,Maroon 5,261005997,54,2,0
+20002,What Lovers Do,pop,Maroon 5,519389099,15,2,0
+20003,Wolves,pop,Selena Gomez & Marshmello,396749095,19,4,0
+20003,Wolves,pop,Selena Gomez & Marshmello,545227712,15,4,0
+20003,Wolves,pop,Selena Gomez & Marshmello,519389099,15,4,0
+20003,Wolves,pop,Selena Gomez & Marshmello,233313103,29,4,0
+20004,How Long,pop,Charlie Puth,405310030,35,2,0
+20004,How Long,pop,Charlie Puth,519389099,15,2,0
+20005,New Rules,pop,Dua Lipa,457933106,21,5,1
+20005,New Rules,pop,Dua Lipa,519389099,15,5,1
+20005,New Rules,pop,Dua Lipa,266104281,20,5,1
+20005,New Rules,pop,Dua Lipa,233313103,29,5,1
+20005,New Rules,pop,Dua Lipa,218916370,21,5,1
+20006,Dusk Till Dawn,pop,ZAYN,579675242,14,5,1
+20006,Dusk Till Dawn,pop,ZAYN,11638693,36,5,1
+20006,Dusk Till Dawn,pop,ZAYN,480450152,15,5,1
+20006,Dusk Till Dawn,pop,ZAYN,129509280,20,5,1
+20006,Dusk Till Dawn,pop,ZAYN,519389099,15,5,1
+20007,Tip Toe,pop,Jason Derulo,480450152,15,3,0
+20007,Tip Toe,pop,Jason Derulo,286966904,18,3,0
+20007,Tip Toe,pop,Jason Derulo,519389099,15,3,0
+20008,Anywhere,pop,Rita Ora,129509280,20,3,0
+20008,Anywhere,pop,Rita Ora,519389099,15,3,0
+20008,Anywhere,pop,Rita Ora,233313103,29,3,0
+20009,Guerrera,pop,C. Tangana,41432574,37,4,0
+20009,Guerrera,pop,C. Tangana,430896023,27,4,0
+20009,Guerrera,pop,C. Tangana,223367389,52,4,0
+20009,Guerrera,pop,C. Tangana,519389099,15,4,0
+20010,Guerrera,pop,C. Tangana,231608506,26,5,1
+20010,Guerrera,pop,C. Tangana,931633,31,5,1
+20010,Guerrera,pop,C. Tangana,574315411,18,5,1
+20010,Guerrera,pop,C. Tangana,221967297,60,5,1
+20010,Guerrera,pop,C. Tangana,11638693,36,5,1
+20011,El Patio,pop,Pablo López,372575495,27,5,1
+20011,El Patio,pop,Pablo López,388019140,16,5,1
+20011,El Patio,pop,Pablo López,513594025,51,5,1
+20011,El Patio,pop,Pablo López,931633,31,5,1
+20011,El Patio,pop,Pablo López,431761852,34,5,1
+20012,No Vaya A Ser,pop,Pablo Alborán,429520994,31,5,1
+20012,No Vaya A Ser,pop,Pablo Alborán,489327083,23,5,1
+20012,No Vaya A Ser,pop,Pablo Alborán,545227712,15,5,1
+20012,No Vaya A Ser,pop,Pablo Alborán,931633,31,5,1
+20012,No Vaya A Ser,pop,Pablo Alborán,492568637,18,5,1
 20013,Saturno,pop,Pablo Alborán,5913140,26,5,1
 20013,Saturno,pop,Pablo Alborán,85233041,25,5,1
 20013,Saturno,pop,Pablo Alborán,513594025,51,5,1
 20013,Saturno,pop,Pablo Alborán,5440753,45,5,1
 20013,Saturno,pop,Pablo Alborán,97715494,30,5,1
-20014,24K Magic,pop,Bruno Mars,494681716,16,2,0
-20014,24K Magic,pop,Bruno Mars,243084571,27,2,0
-20015,Rockabye,pop,Clean Bandit,0,0,0,0
-20016,Don't Wanna Know,pop,Maroon 5,457933106,21,2,0
-20016,Don't Wanna Know,pop,Maroon 5,286966904,18,2,0
-20017,Lost on You,pop,LP,0,0,0,0
-20018,Perfect Strangers,pop,Jonas Blue,500737046,27,4,0
-20018,Perfect Strangers,pop,Jonas Blue,17149787,45,4,0
-20018,Perfect Strangers,pop,Jonas Blue,92458213,21,4,0
-20018,Perfect Strangers,pop,Jonas Blue,522802705,48,4,0
-20019,Cómo Te Atreves,pop,Morat,500737046,27,2,0
-20019,Cómo Te Atreves,pop,Morat,263071680,30,2,0
+20014,24K Magic,pop,Bruno Mars,494681716,16,4,0
+20014,24K Magic,pop,Bruno Mars,243084571,27,4,0
+20014,24K Magic,pop,Bruno Mars,519389099,15,4,0
+20014,24K Magic,pop,Bruno Mars,35982294,24,4,0
+20015,Rockabye,pop,Clean Bandit,176146018,19,2,0
+20015,Rockabye,pop,Clean Bandit,519389099,15,2,0
+20016,Don't Wanna Know,pop,Maroon 5,457933106,21,5,1
+20016,Don't Wanna Know,pop,Maroon 5,286966904,18,5,1
+20016,Don't Wanna Know,pop,Maroon 5,261005997,54,5,1
+20016,Don't Wanna Know,pop,Maroon 5,366083215,33,5,1
+20016,Don't Wanna Know,pop,Maroon 5,519389099,15,5,1
+20017,Lost on You,pop,LP,1305258,21,2,0
+20017,Lost on You,pop,LP,519389099,15,2,0
+20018,Perfect Strangers,pop,Jonas Blue,500737046,27,5,1
+20018,Perfect Strangers,pop,Jonas Blue,17149787,45,5,1
+20018,Perfect Strangers,pop,Jonas Blue,92458213,21,5,1
+20018,Perfect Strangers,pop,Jonas Blue,522802705,48,5,1
+20018,Perfect Strangers,pop,Jonas Blue,11638693,36,5,1
+20019,Cómo Te Atreves,pop,Morat,500737046,27,5,1
+20019,Cómo Te Atreves,pop,Morat,263071680,30,5,1
+20019,Cómo Te Atreves,pop,Morat,931633,31,5,1
+20019,Cómo Te Atreves,pop,Morat,6896723,25,5,1
+20019,Cómo Te Atreves,pop,Morat,519389099,15,5,1

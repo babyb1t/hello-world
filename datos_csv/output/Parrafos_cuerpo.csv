@@ -57,6 +57,9 @@ user_id,user_age,Sexo,codigo_sexo,nombre_cancion,Codigo_cancion,codigo_parrafo_c
 17149787,45,Chico,0,Perfect Strangers,20018,0,0
 480450152,15,Chica,1,Tip Toe,20007,3,5
 480450152,15,Chica,1,Tip Toe,20007,4,5
+480450152,15,Chica,1,Dusk Till Dawn,20006,7,5
+480450152,15,Chica,1,Dusk Till Dawn,20006,6,5
+480450152,15,Chica,1,Dusk Till Dawn,20006,2,5
 197254286,30,Chico,0,Espectacular,30001,0,0
 3351446,24,Chico,0,Perro Fiel,10001,0,0
 513594025,51,Chica,1,Saturno,20013,2,2
@@ -162,3 +165,59 @@ user_id,user_age,Sexo,codigo_sexo,nombre_cancion,Codigo_cancion,codigo_parrafo_c
 97715494,30,Chica,1,Saturno,20013,0,0
 97715494,30,Chica,1,Sólo si es contigo,30004,2,7
 97715494,30,Chica,1,Sólo si es contigo,30004,3,7
+931633,31,Chica,1,Sólo si es contigo,30004,1,1
+931633,31,Chica,1,Déjate Llevar,10006,0,0
+931633,31,Chica,1,Cómo Te Atreves,20019,1,10
+931633,31,Chica,1,El Patio,20011,0,0
+931633,31,Chica,1,Guerrera,20010,5,10
+931633,31,Chica,1,No Vaya A Ser,20012,1,10
+176146018,19,Chico,0,Rockabye,20015,1,10
+579675242,14,Chica,1,Dusk Till Dawn,20006,2,10
+579675242,14,Chica,1,Dusk Till Dawn,20006,6,10
+579675242,14,Chica,1,Dusk Till Dawn,20006,7,10
+579675242,14,Chica,1,Dusk Till Dawn,20006,8,10
+261005997,54,Chico,0,Don't Wanna Know,20016,0,0
+261005997,54,Chico,0,Sólo si es contigo,30004,3,8
+261005997,54,Chico,0,What Lovers Do,20002,0,0
+492568637,18,Chica,1,No Vaya A Ser,20012,2,7
+431761852,34,Chico,0,El Patio,20011,0,0
+574315411,18,Chico,0,Sólo si es contigo,30004,0,0
+574315411,18,Chico,0,Guerrera,20010,0,0
+6896723,25,Chico,0,Cómo Te Atreves,20019,0,0
+366083215,33,Chico,0,Don't Wanna Know,20016,0,0
+266104281,20,Chico,0,New Rules,20005,1,9
+266104281,20,Chico,0,New Rules,20005,2,9
+221967297,60,Chica,1,Guerrera,20010,0,0
+554549204,24,Chico,0,Sólo si es contigo,30004,0,0
+11638693,36,Chica,1,Perfect Strangers,20018,0,0
+11638693,36,Chica,1,Dusk Till Dawn,20006,2,6
+11638693,36,Chica,1,Guerrera,20010,0,0
+129509280,20,Chica,1,Dusk Till Dawn,20006,0,0
+129509280,20,Chica,1,Anywhere,20008,0,0
+519389099,15,Chica,1,Wolves,20003,0,0
+519389099,15,Chica,1,Guerrera,20009,0,0
+519389099,15,Chica,1,Cómo Te Atreves,20019,0,0
+519389099,15,Chica,1,What Lovers Do,20002,0,0
+519389099,15,Chica,1,Havana,20001,4,7
+519389099,15,Chica,1,Tip Toe,20007,1,4
+519389099,15,Chica,1,Tip Toe,20007,1,4
+519389099,15,Chica,1,Tip Toe,20007,3,4
+519389099,15,Chica,1,Tip Toe,20007,2,4
+519389099,15,Chica,1,Tip Toe,20007,5,4
+519389099,15,Chica,1,Tip Toe,20007,6,4
+519389099,15,Chica,1,Tip Toe,20007,7,4
+519389099,15,Chica,1,How Long,20004,0,0
+519389099,15,Chica,1,Perfect Duet,20000,0,0
+519389099,15,Chica,1,Dusk Till Dawn,20006,0,0
+519389099,15,Chica,1,New Rules,20005,0,0
+519389099,15,Chica,1,Don't Wanna Know,20016,0,0
+519389099,15,Chica,1,Rockabye,20015,0,0
+519389099,15,Chica,1,Anywhere,20008,0,0
+519389099,15,Chica,1,24K Magic,20014,4,10
+519389099,15,Chica,1,Lost on You,20017,0,0
+1305258,21,Chico,0,Lost on You,20017,3,1
+35982294,24,Chico,0,24K Magic,20014,0,0
+233313103,29,Chico,0,Wolves,20003,0,0
+233313103,29,Chico,0,Anywhere,20008,0,0
+233313103,29,Chico,0,New Rules,20005,1,10
+218916370,21,Chico,0,New Rules,20005,0,0
