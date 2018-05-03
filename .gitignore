@@ -1,0 +1,4 @@
+#Archivos compilados de Python
+*.pyc
+variables.py
+
