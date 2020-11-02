@@ -1,0 +1,14 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: Ubuntu 20.04 LTS
+    
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run test pipeline
+      run: python3 test.py
+
